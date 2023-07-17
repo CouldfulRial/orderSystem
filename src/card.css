@@ -1,0 +1,18 @@
+.FoodImg{
+    width: 50vw;
+    height: 20vh;
+    float: right;
+    display: inline;
+}
+.FoodTitle{
+    font-weight: 900;
+}
+.CheckBox{
+    float: right;
+    zoom: 200%;
+    margin-bottom: 1vh;
+    margin-right: 1vh;
+}
+.Card{
+    margin-bottom: 1vh;
+}

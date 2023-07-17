@@ -1,0 +1,12 @@
+.Main{
+    display: grid;
+}
+.MainHeader{
+    grid-row: 0.3;
+}
+.Notes{
+    width:24%;
+    color:aliceblue;
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 600;
+}

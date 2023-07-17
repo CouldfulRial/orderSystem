@@ -1,0 +1,15 @@
+.Header{
+    width: 100%;
+    height: 20vh;
+  }
+.HeaderText{
+    margin: 0;
+    line-height: 20vh;
+    text-align: left;
+    display: inline;
+}
+.ShopImg{
+    width: 30%;
+    margin-top: 5vh;
+    float: right;
+}
