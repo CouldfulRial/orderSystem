@@ -1,5 +1,6 @@
 ﻿import './content.css';
 import Card from './card';
+
 import buoluochaofan from './res/boluochaofan.jpg';
 import danchaofan from './res/danchaofan.jpg';
 import fanqiechaodan from './res/fanqiechaodan.jpg';
